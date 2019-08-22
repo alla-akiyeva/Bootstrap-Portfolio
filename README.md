@@ -1,11 +1,13 @@
 # Bootstrap-Portfolio
 
-#### Basic three-page portfolio. 
+#### Basic three-page portfolio template. 
 HTML, CSS, Bootstrap.
 
-![about me page](/images/about me.png)
+![about me page](/images/about.png)
 
-![about me page](/images/portfolio.png)
 
-![about me page](/images/contact.png)
+![portfolio page](/images/portfolio.png)
+
+
+![contact page](/images/contact.png)
 
